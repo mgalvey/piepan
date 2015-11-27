@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/robertkrimen/otto"
+	"github.com/mgalvey/otto"
 )
 
 type file struct {

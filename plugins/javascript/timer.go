@@ -3,7 +3,7 @@ package plugin
 import (
 	"time"
 
-	"github.com/robertkrimen/otto"
+	"github.com/mgalvey/otto"
 )
 
 type timer struct {

@@ -3,7 +3,7 @@ package plugin
 import (
 	"os/exec"
 
-	"github.com/robertkrimen/otto"
+	"github.com/mgalvey/otto"
 )
 
 type process struct {

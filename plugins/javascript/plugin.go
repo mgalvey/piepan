@@ -8,8 +8,8 @@ import (
 	"sync"
 
 	"github.com/layeh/piepan"
-	"github.com/robertkrimen/otto"
-	_ "github.com/robertkrimen/otto/underscore"
+	"github.com/mgalvey/otto"
+	_ "github.com/mgalvey/otto/underscore"
 )
 
 func init() {

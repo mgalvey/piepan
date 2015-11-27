@@ -5,7 +5,7 @@ import (
 	"github.com/layeh/gumble/gumble"
 	"github.com/layeh/gumble/opus"
 	"github.com/layeh/gumble/gumble_ffmpeg"
-	"github.com/robertkrimen/otto"
+	"github.com/mgalvey/otto"
 )
 
 func (p *Plugin) apiAudioPlay(call otto.FunctionCall) otto.Value {

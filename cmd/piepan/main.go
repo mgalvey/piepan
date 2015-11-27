@@ -9,7 +9,7 @@ import (
 	"github.com/layeh/gumble/gumble"
 	"github.com/layeh/gumble/gumble_ffmpeg"
 	"github.com/layeh/gumble/gumbleutil"
-	"github.com/layeh/piepan"
+	"github.com/mgalvey/piepan"
 )
 
 type strFlagSlice []string
